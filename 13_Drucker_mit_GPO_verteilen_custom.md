@@ -16,7 +16,7 @@ Installieren einen beliebigen „fiktiven“ Farblaserdrucker zwei Mal unter ein
 
 Nun können Sie pro Drucker in den Einstellungen die Farbeinstellungen definieren und den Drucker so benennen. Achtung: Damit die Einstellungen auch beim User ankommen müssen Sie die Werte unter Standardwerte anpassen. Siehe Printscreen
 
-**IMAGE**
+![Picture01](/images/13-Picture1.png)
 
 Wenn Sie nicht wissen, wie man einen TCP/IP Drucker installiert finden Sie eine Anleitung in MS Teams unter Tools.
 
@@ -46,14 +46,15 @@ Klicke dort mit der rechten Maustaste auf Drucker und anschließend auf
 
 „Neu“ + „Freigegebener Drucker„.
 
-**IMAGE**
+![Picture01](/images/13-Picture2.png)
 
 Es öffnet sich das Fenster „Neue Eigenschaften für freigegebene Drucker“ in welchem Du nun den Drucker als UNC-Pfad angeben kannst mit \\FQDN\Druckerfreigabename
 
 Unter Aktion kannst Du entweder Aktualisieren oder Ersetzen auswählen. Den korrekten Freigabepfad erhältst Du, indem Du auf die drei Punkte […] klickst und den gewünschten Drucker aus dem Verzeichnis wählst. Die Option „Drucker als Standarddrucker festlegen“ wähle ich in diesem Schritt noch nicht aus.
 
 
-**IMAGE**
+
+![Picture01](/images/13-Picture3.png)
 
 
 # Kontrolle
