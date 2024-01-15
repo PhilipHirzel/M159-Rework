@@ -8,10 +8,11 @@ Voraussetzung ist, dass der Domänencontroller und das DNS korrekt installiert s
 |  | |
 | ----------- | ----------- |
 | Um den Client in die Domäne aufzunehmen unter Systemsteuerung\Alle Systemsteuerungselemente\System im Bereich Einstellungen für Computernamen, Domäne und Arbeitsgruppe den Punkt Einstellungen ändern aufrufen. | ![image01](/images/04-Picture1.png) |
-| Im Reiter Computername auf Ändern klicken. | Image |
-|Den Name des Computers angeben. Dieser muss eindeutig sein und darf im Active Directory noch nicht vorhanden sein. Unter Domäne die URL der Domäne eintragen. Mit einem Klick auf OK, wird nach dem Domänencontroller gesucht. Wurde der Domänencontroller gefunden, erscheint ein Anmeldefenster.| Image |
-|Einen Domänenbenutzer angeben, der über die Rechte verfügt einen Computer der Domäne hinzuzufügen. Standardmäßig haben dieses Recht Domänen-Administratoren.| Image |
-|Nach einem Neustart ist der Computer der Domäne hinzugefügt.Domänenbenutzer können sich jetzt am Computer anmelden. Der neu hinzugefügte Domänencomputer befindet sich standardmäßig in der Organisationseinheit Computer.| Image |
+| Im Reiter Computername auf Ändern klicken. | ![image02](/images/04-Picture2.png) |
+|Den Name des Computers angeben. Dieser muss eindeutig sein und darf im Active Directory noch nicht vorhanden sein. Unter Domäne die URL der Domäne eintragen. Mit einem Klick auf OK, wird nach dem Domänencontroller gesucht. Wurde der Domänencontroller gefunden, erscheint ein Anmeldefenster.|  ![image03](/images/04-Picture3.png) |
+|Einen Domänenbenutzer angeben, der über die Rechte verfügt einen Computer der Domäne hinzuzufügen. Standardmäßig haben dieses Recht Domänen-Administratoren.| ![image04](/images/04-Picture4.png) |
+|  | ![image04](/images/04-Picture5.png) |
+|Nach einem Neustart ist der Computer der Domäne hinzugefügt.Domänenbenutzer können sich jetzt am Computer anmelden. Der neu hinzugefügte Domänencomputer befindet sich standardmäßig in der Organisationseinheit Computer.| ![image04](/images/04-Picture6.png) |
 
 
 ## 4.2 Wichtig: Merken Sie sich folgenden für das Anmelden in Zukunft
