@@ -100,8 +100,7 @@ Lesen Sie für diese Aufgabe Kapitel «4.3 WMI-Filter» durch.
 
 # Kontrolle 9.1-9.3
 
- IMAGE
-
+![Kontrolle](/images/Kontrolle.png)
 
 
 # Kontrolle 9.4
