@@ -94,6 +94,7 @@ Folgende Einstellungen müssen Sie auf sämtliches System vornehmen. Auf dem «W
 
 - Blenden Sie alle Desktopsymbole ein
 
+![Picture2](/images/01-Picture2.png)
 
 ### Client
 
