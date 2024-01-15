@@ -59,8 +59,7 @@ https://aka.ms/afs/agent
 ## Azure File Sync Agent auf dem Server installieren
 
 
-**IMAGE**
-
+![Picture01](/images/17-Picture1.png)
 
 
 ## Erstellen Sie einen Storage Account in Azure (Storage Account / Speicherkonto)
@@ -69,11 +68,12 @@ https://aka.ms/afs/agent
 
 - Gehen Sie zu Alle Ressourcen und installieren Sie Ihr neues Speicherkonto / Storage Account
 
-- **IMAGE**
+
+![Picture02](/images/17-Picture2.png)
 
 - Gehen Sie zu Alle Ressourcen und installieren Sie Ihr neues Speicherkonto / Storage Account
 
-- **IMAGE**
+![Picture02](/images/17-Picture3.png)
 
 - Verwenden Sie nicht wie im Printscreen Daten als Speicherkontoname da dieser Name eindeutig sein muss. Alle restlichen Einstellungen können Sie auf «Standard» belassen.
 
@@ -87,7 +87,7 @@ https://aka.ms/afs/agent
 
 - Erstellen Sie eine neuen File Share / Dateifreigabe 
 
-- **IMAGE**
+![Picture03](/images/17-Picture4.png)
 
 
 
@@ -97,7 +97,7 @@ https://aka.ms/afs/agent
 
 - Suchen Sie nach Azure File Sync
 
-- **IMAGE**
+![Picture04](/images/17-Picture5.png)
 
 ## Server registrieren und Azure Sync einrichten
 
@@ -105,11 +105,11 @@ https://aka.ms/afs/agent
 
 - Wählen Sie «Sign in» für AzurCloud
 
-- **IMAGE**
+![Picture05](/images/17-Picture6.png)
 
 - Melden Sie sich mit Ihrem Azure Account an und registrieren Sie Ihren Server
 
-- **IMAGE**
+![Picture05](/images/17-Picture7.png)
 
 - Anschliessend sehen Sie Ihren Server unter «Registrierte Server»
 
@@ -119,7 +119,7 @@ https://aka.ms/afs/agent
 
 - Fügen Sie einen Serverendunkt hinzu geben Sie dabei 
 
-- **IMAGE**
+![Picture05](/images/17-Picture8.png)
 
 # Kontrolle
 
