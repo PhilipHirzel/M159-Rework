@@ -10,18 +10,18 @@
 
 # Weisen Sie der Gruppe Aussendienst eine Microsoft 365 E5 Lizenz zu 
 
-**IMAGE**
+![Picture01](/images/23-Picture1.png)
 
 # Melden Sie sich mit dem Aussendienstbenutzer bei   an und überprüfen Sie, dass Sie die Office Aplikationen zur Verfügung haben
 
-**IMAGE**
+![Picture01](/images/23-Picture2.png)
 
 # Gehen Sie unter https://admin.microsoft.com und suchen Sie Ihren Aussendienstuser unter den zugewiesenen Lizenzen
 
 Vorher: 17 von 25 Lizenzen in Verwendung
 
-**IMAGE**
+![Picture01](/images/23-Picture3.png)
 
 Nachher: 18 von 25 Lizenzen in Verwendung
 
-**IMAGE**
+![Picture01](/images/23-Picture4.png)
