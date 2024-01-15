@@ -89,7 +89,7 @@ Importieren Sie das Modul für Active Directory unter PowerShell.
 
 
 
-![Picture01](/images/13-Picture2.png)
+![Picture01](/images/16-Picture2.png)
 
 
 
