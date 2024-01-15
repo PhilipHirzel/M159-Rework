@@ -4,7 +4,7 @@
 
 In diesem Modul bauen Sie Ihre Active Directory Umgebung schrittweise auf. Das Modul 159 ist modular aufgebaut, dass bedeutet, Sie können selbst bestimmen, welche Aufgaben und somit auch welche Konfiguration Sie installieren. 
 
-
+![alt text](/images/01-Picture1.png)
 
 Das Ganze beginnt mit einer sorgfältigen Planung. In der Portfolio-Vorlage finden Sie leere Felder, welche Sie ausfüllen müssen, damit Ihre Planung abgeschlossen werden kann. 
 
