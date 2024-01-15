@@ -2,7 +2,7 @@
 
 # 16.1 LDAP-Abfragen / LDAP-Queries (CMD-Prompt) (1 Punkt)
 
-**IMAGE**
+![Picture01](/images/16-Picture1.png)
 
 Damit Sie diese LDAP-Befehle in der CMD ausführen können, müssen Sie die RSAT Tools für Ihren Server installieren. Sie finden eine Anleitung dazu im Ordner Tools.
 
@@ -89,7 +89,7 @@ Importieren Sie das Modul für Active Directory unter PowerShell.
 
 
 
-**IMAGE**
+![Picture01](/images/13-Picture2.png)
 
 
 
