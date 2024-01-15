@@ -15,16 +15,18 @@ Das hinzufügen eines lokalen Clients in Azure AD basiert auf zwei Schritten. Zu
 Nachdem AD-Join können sich Benutzer von der Azure AD anmelden.
 
 
-**IMAGE**
+![Picture01](/images/21-Picture1.png)
 
 
-
+![Picture01](/images/21-Picture2.png)
 
 ### Ansicht Geräte im Azure Portal 
 https://portal.azure.com/#view/Microsoft_AAD_Devices/DevicesListBlade/mezzoEnabled~/true
 
-**IMAGE**
+![Picture01](/images/21-Picture3.png)
 
+
+![Picture01](/images/21-Picture4.png)
 
 # Intune Join (1.5 Punkte)
 
@@ -41,14 +43,15 @@ https://portal.azure.com/#view/Microsoft_AAD_Devices/DevicesListBlade/mezzoEnabl
 
 ### Starten Sie die Applikation “Company Portal»
 ### Gerät zu Intune hinzufügen
-**IMAGE**
+
+![Picture01](/images/21-Picture5.png)
 
 
-**IMAGE**
+![Picture01](/images/21-Picture6.png)
 
 ### Überprüfen Sie, ob das Gerät bei Intune angezeigt wird
 
-**IMAGE**
+![Picture01](/images/21-Picture7.png)
 
 ### Führen Sie «dsregcmd /status» aus
 
