@@ -65,7 +65,8 @@ Sie müssen wissen, wie UNC-Pfade aufgebaut sind und verwendet werden können
 - Es reicht für die volle Punktzahl, nur die Berechtigungen der grün markierten Zeilen zu erfassen
 
 
-IMAGE HERE
+![Table](/images/05-Table1.png)
+
 
 
 
@@ -96,7 +97,6 @@ C = Change
 
 - Aktivieren Sie anschliessend ABE für alle Freigaben
 
-- 
 
 ## Papierkorb (0.25 Punkte)
 
@@ -114,7 +114,7 @@ C = Change
 
 Im Video sollen die Aufgaben 5.4, 5.5 und 5.6 gezeigt und erklärt werden.
 
-   
+   ![Kontrolle](/images/Kontrolle.png)
 
 
 
