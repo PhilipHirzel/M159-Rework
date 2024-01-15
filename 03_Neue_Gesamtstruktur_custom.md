@@ -49,5 +49,5 @@ Achtung: Weitere DCs werden erst später in die Domäne aufgenommen.
 
 # Kontrolle:
 
-  
+  ![Kontrolle](/images/Kontrolle.png)
 
