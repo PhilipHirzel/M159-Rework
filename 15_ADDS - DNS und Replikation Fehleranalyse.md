@@ -70,6 +70,4 @@ Informationstechnik
 # Kontrolle:
 Erklären Sie Ihre Ergebnisse und Interpretationen im Screencast zu sämtlichen Teilaufgaben.
 
-![Ein Bild, das Rechteck, Reihe, Design, Rahmen enthält.
-
-Automatisch generierte Beschreibung](Aspose.Words.7eaad7ea-eafa-4211-bef3-05fdb686cffa.003.png)
+![IMAGES](images/Kontrolle.png) 
