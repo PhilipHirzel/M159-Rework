@@ -8,7 +8,6 @@ Auch die Domaincontroller in den entsprechenden Standorten sollen unterschiedlic
 
 # Kontrolle:
 
-Automatisch generierte Beschreibung](Aspose.Words.a35e51c2-b635-47ed-b4ad-e0cad6a3cf73.003.png)
 
 - Zeigen Sie im Video wo und wie Sie die neuen Gruppenrichtlinienobjekt für die Standorte erstellt haben. 
 - Zeigen Sie anschliessend auf dem Client mit «Gpresult /R» dass die GPOs auch am entsprechenden Standort angewendet werden.
