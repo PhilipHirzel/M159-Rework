@@ -17,5 +17,5 @@ Führen Sie auf dem Client, welcher sich im Subnetz2 befindet, den Befehl «set 
 # Kontrolle
 Zeigen Sie im Screencast wie der Logonserver sich verändert, wenn Sie den Client in ein anderes Subnetz setzen.
 
-![IMAGES]() 
+![IMAGES](images/Kontrolle.png) 
 
