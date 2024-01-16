@@ -20,7 +20,7 @@
 1. ## **«pf sense» Konfiguration**
 - Konfigurieren Sie die IP-Adressen die erste LAN Schnittstelle
 
-![iMAGE]()
+![iMAGE](images/02-Picture01.png)
 
 - Nun können Sie über das Webinterface zugreifen und weitere Interfaces «assignen»
 
@@ -29,13 +29,13 @@ user: admin
 pass: pfsense
 
 
-![iMAGE]()
+![iMAGE](images/02-Picture02.png)
 
 - Konfigurieren Sie «Regeln»
 
-![iMAGE]()
+![iMAGE](images/02-Picture03.png)
 
-![iMAGE]()
+![iMAGE](images/02-Picture04.png)
 
 
 1. ## **Firewall Regel kopieren**
@@ -51,5 +51,5 @@ Pingen Sie Server 1 von Server 2 aus und umgekehrt. Falls der ping ankommt, ist 
 # **Kontrolle:**
 Beim Video muss ersichtlich sein, dass es sich um Ihre Umgebung handelt.
 
-` `![IMAGE]() 
+` `![IMAGE](images/Kontrolle.png) 
 
