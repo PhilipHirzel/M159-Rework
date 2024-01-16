@@ -9,9 +9,11 @@ In dieser Aufgabe müssen Sie einen zusätzlichen DC zu Ihrer Hauptdomäne hinzu
 ## Kontrolle
   Zeigen Sie folgendes Fenster mit dem neuen Domänencontroller im Video
 
-![IMAGe]()
+![IMAGe](images/07-Picture1.png)
 
 # Kontrolle
 
 
 Automatisch generierte Beschreibung](Aspose.Words.0fa2e5f3-176a-4486-83b9-38b254e41513.004.png)
+
+![IMAGe](images/Kontrolle.png)
