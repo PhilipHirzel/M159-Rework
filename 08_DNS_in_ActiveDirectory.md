@@ -14,6 +14,4 @@ Schauen Sie sich folgende Videos zum Thema DNS in Active Directory an
       ![Image](images/08-Picture1.png)
 
 
-Automatisch generierte Beschreibung](Aspose.Words.31a530cc-7352-410a-a199-5c714395a05f.004.png)
-
 Kontrolle: Zeigen Sie die sekundäre Zone im Video
