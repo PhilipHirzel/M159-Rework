@@ -24,4 +24,4 @@ Vorher: 17 von 25 Lizenzen in Verwendung
 
 Nachher: 18 von 25 Lizenzen in Verwendung
 
-![Picture01](/images/23-Picture4.png)
+![Picture1](/images/23-Picture4.png)

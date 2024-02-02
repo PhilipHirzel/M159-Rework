@@ -14,6 +14,7 @@ Install-ADDSDomainController -InstallDns -Credential (Get-Credential DomänenNam
 ## Kontrolle
    Zeigen Sie folgendes Fenster mit dem neuen Domänencontroller im Video
 
-![IMAGE](images/07-Picture2.png)
+![Picture1](/images/07-Picture2.png)
+
 
 

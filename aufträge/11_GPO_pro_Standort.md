@@ -12,4 +12,4 @@ Auch die Domaincontroller in den entsprechenden Standorten sollen unterschiedlic
 - Zeigen Sie im Video wo und wie Sie die neuen Gruppenrichtlinienobjekt für die Standorte erstellt haben. 
 - Zeigen Sie anschliessend auf dem Client mit «Gpresult /R» dass die GPOs auch am entsprechenden Standort angewendet werden.
 
-![IMAGES](images/Kontrolle.png) 
+![Picture1](/images/Kontrolle.png)

@@ -58,4 +58,5 @@
 # Kontrolle:
 Erklären Sie Ihre Ergebnisse und Interpretationen im Screencast zu sämtlichen Teilaufgaben.
 
-![IMAGES](images/Kontrolle.png) 
+![Picture1](/images/Kontrolle.png)
+

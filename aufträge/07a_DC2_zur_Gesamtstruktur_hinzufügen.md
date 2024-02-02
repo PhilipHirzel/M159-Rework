@@ -9,9 +9,9 @@ In dieser Aufgabe müssen Sie einen zusätzlichen DC zu Ihrer Hauptdomäne hinzu
 ## Kontrolle
   Zeigen Sie folgendes Fenster mit dem neuen Domänencontroller im Video
 
-![IMAGe](images/07-Picture1.png)
+![Picture1](/images/07-Picture1.png)
+
 
 # Kontrolle
+![Picture1](/images/Kontrolle.png)
 
-
-![IMAGe](images/Kontrolle.png)
