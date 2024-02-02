@@ -29,13 +29,13 @@ user: admin
 pass: pfsense
 
 
-![iMAGE](images/02-Picture02.png)
+![iMAGE]([images/02-Picture02.png](https://github.com/PhilipHirzel/M159-Rework/blob/50642edd119fd225c9577982226f3cd74d3e94ef/images/02-Picture02.png))
 
 - Konfigurieren Sie «Regeln»
 
-![iMAGE](images/02-Picture03.png)
+![iMAGE](images/[02-Picture03.png](https://github.com/PhilipHirzel/M159-Rework/blob/50642edd119fd225c9577982226f3cd74d3e94ef/images/02-Picture03.png))
 
-![iMAGE](images/02-Picture04.png)
+![iMAGE](images/[02-Picture04.png](https://github.com/PhilipHirzel/M159-Rework/blob/50642edd119fd225c9577982226f3cd74d3e94ef/images/02-Picture04.png))
 
 
 1. ## **Firewall Regel kopieren**
