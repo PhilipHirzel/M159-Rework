@@ -20,7 +20,7 @@
 1. ## **«pf sense» Konfiguration**
 - Konfigurieren Sie die IP-Adressen die erste LAN Schnittstelle
 
-![iMAGE](images/02-Picture01.png)
+![iMAGE](https://github.com/PhilipHirzel/M159-Rework/blob/7b9fb6e466d6b6e4bf65ea5239fdb35a28e5f1c7/images/02-Picture01.png)
 
 - Nun können Sie über das Webinterface zugreifen und weitere Interfaces «assignen»
 
